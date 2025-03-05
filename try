@@ -1,3 +1,4 @@
+if (out != null) {
 String userName = props.getProperty("db.user");
 Properties props = new Properties();
 hello world
