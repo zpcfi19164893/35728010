@@ -1,3 +1,4 @@
+test.fetch();
 props.load(fs);
 if (out != null) {
 String userName = props.getProperty("db.user");
