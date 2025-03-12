@@ -1,3 +1,4 @@
+test.fetch();
 // do the thing you do
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 out.close();
