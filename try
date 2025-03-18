@@ -1,3 +1,4 @@
+test.fetch();
 Properties props = new Properties();
 props.load(fs);
 public static void main(String[] args)
