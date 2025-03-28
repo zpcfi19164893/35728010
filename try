@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 String password = props.getProperty("db.password");
 ps.close();
