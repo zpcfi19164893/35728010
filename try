@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 test.init();
 BufferedWriter out = null;
 String driverClass = "oracle.jdbc.driver.OracleDriver";
